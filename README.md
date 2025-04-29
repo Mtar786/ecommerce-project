@@ -87,8 +87,7 @@ Note: Do not commit .env.local to version control.
 Docker Setup
 Option A: Manual Postgres Container
 bash
-Copy
-Edit
+
 # Start Postgres in Docker
 docker run --name ecommerce-db \
   -e POSTGRES_USER=postgres \
