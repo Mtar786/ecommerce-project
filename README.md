@@ -99,9 +99,7 @@ docker run --name ecommerce-db \
 # Create the ecommerce database
 docker exec -it ecommerce-db psql -U postgres -c "CREATE DATABASE ecommerce;"
 Option B: Docker Compose
-yaml
-Copy
-Edit
+
 services:
   db:
     image: postgres:13
