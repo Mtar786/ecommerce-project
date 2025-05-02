@@ -65,7 +65,6 @@ A mock storefront built with Next.js (App Router), PostgreSQL (via Prisma), Stri
    ```bash
    git clone git@github.com:Mtar786/ecommerce-project.git
    cd ecommerce-project
-Copy Environment Template
 
 cp .env.example .env.local
 Edit .env.local (see Environment Variables)
