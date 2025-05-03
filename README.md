@@ -30,7 +30,6 @@ A mock storefront built with Next.js (App Router), PostgreSQL (via Prisma), Stri
 ---
 
 ## Tech Stack
-
 - **Frontend & Backend:** Next.js (App Router)  
 - **Database ORM:** Prisma  
 - **Database:** PostgreSQL (in Docker)  
