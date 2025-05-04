@@ -55,7 +55,6 @@ A mock storefront built with Next.js (App Router), PostgreSQL (via Prisma), Stri
 - Docker & Docker Desktop  
 - (Optional) Docker Compose  
 - Stripe account for test API keys  
-
 ---
 
 ## Local Setup
