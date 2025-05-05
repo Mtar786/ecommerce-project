@@ -32,7 +32,10 @@ export function ProductList({ products }: { products: ProductType[] }) {
           <p style={{ fontWeight: 'bold' }}>${p.price.toFixed(2)}</p>
           {p.description && <p>{p.description}</p>}
           <button
-            onClick={() => addToCart(p)}
+             onClick={() => {
+              console.log('👉 Button clicked for product:', p);
+              addToCart(p);
+            }}
             style={{
               padding: '0.5rem 1rem',
               border: 'none',
