@@ -10,7 +10,6 @@ A mock storefront built with Next.js (App Router), PostgreSQL (via Prisma), Stri
 - App Router structure with server and client components  
 
 ---
-
 ## Table of Contents
 
 1. [Tech Stack](#tech-stack)  
